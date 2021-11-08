@@ -1,4 +1,4 @@
-package com.ulisesjosue.reyes.martinez;
+package com.ulisesjosue.reyes.martinez.Logica;
 
 import java.io.Serializable;
 
